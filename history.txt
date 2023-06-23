@@ -1,0 +1,500 @@
+   20  git commit -m 'First Commit correction'
+   21  git push
+   22  clear
+   23  vi 1-main.c
+   24  vi 1-swap.c
+   25  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-swap.c -o 1-swap
+   26  vi 1-swap.c
+   27  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-swap.c -o 1-swap
+   28  vi 1-swap.c
+   29  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-swap.c -o 1-swap
+   30  ./1-swap
+   31  clear
+   32  git add .
+   33  git commit -m '1-swap.c'
+   34  git push
+   35  vi 1-swap.c
+   36  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-swap.c -o 1-swap
+   37  git commit -m '1-swap.c'
+   38  git add .
+   39  git commit -m '1-swap.c'
+   40  git push
+   41  clear
+   42  vi 2-main.c
+   43  vi 2-strlen.c
+   44  vi 2-strlen.c
+   45  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-strlen.c -o 2-strlen
+   46  vi 2-strlen.c
+   47   gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-strlen.c -o 2-strlen
+   48  clear
+   49  vi 2-strlen.c
+   50   gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-strlen.c -o 2-strlen
+   51  vi 2-strlen.c
+   52   gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-strlen.c -o 2-strlen
+   53  clear
+   54  vi 2-strlen.c
+   55   gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-strlen.c -o 2-strlen
+   56  ./2-strlen
+   57  git add .
+   58  git commit -m '2-strlen.c'
+   59  git push
+   60  vi 3-main.c
+   61  clear
+   62  vi 3-puts.c
+   63  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-puts.c -o 3-puts
+   64  vi 3-puts.c
+   65  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-puts.c -o 3-puts
+   66  vi 3-puts.c
+   67  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-puts.c -o 3-puts
+   68  clear
+   69  vi 3-puts.c
+   70  ls -l
+   71  git ad .
+   72  git add .
+   73  git commit -m ' 3-puts.c'
+   74  git push
+   75  clear
+   76  ls -l
+   77  vi 3-main.c
+   78  vi 3-puts.c
+   79  git add .
+   80  git commit -m '3-puts.c'
+   81  git push
+   82  clear
+   83  git commit -m '3-puts.c'
+   84  vi 3-puts.c0
+   85  vi 3-puts.c
+   86  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-puts.c -o 3-puts
+   87  clear
+   88  vi 3-puts.c
+   89  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-puts.c -o 3-puts
+   90  vi 3-puts.c
+   91  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-puts.c -o 3-puts
+   92  betty 3-puts.c
+   93  gcc -c 3-puts.c
+   94  clear
+   95  gcc -c 3-puts.c
+   96  vi _putchar.c
+   97  git add .
+   98  git commit -m '3-puts.c'
+   99  git push
+  100  clear
+  101  vi 3-puts.c
+  102  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 3-main.c 3-puts.c -o 3-puts
+  103  ./3-puts 
+  104  git add .
+  105  git commit -m '3-puts.c '
+  106  git push
+  107  clear
+  108  vi 4-main.c
+  109  vi 4-print_rev.c
+  110  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  111  wq
+  112  vi 4-print_rev.c
+  113  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  114  clear
+  115  vi 4-print_rev.c
+  116  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  117  vi 4-print_rev.c
+  118  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  119  ./4-print_rev
+  120  vi 4-print_rev.c
+  121  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  122  ./4-print_rev
+  123  clear
+  124  vi 4-print_rev.c
+  125  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  126  ./4-print_rev
+  127  vi 4-print_rev.c
+  128  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  129  vi 4-print_rev.c
+  130  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  131  clear
+  132  vi 4-print_rev.c
+  133  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  134  ./4-print_rev
+  135  clear
+  136  vi 4-print_rev.c
+  137  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  138  vi 4-print_rev.c
+  139  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  140  vi 4-print_rev.c
+  141  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  142  clear
+  143  vi 4-print_rev.c
+  144  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  145  clear
+  146  vi 4-print_rev.c
+  147  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  148  vi 4-print_rev.c
+  149  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 4-main.c 4-print_rev.c -o 4-print_rev
+  150  ./4-print_rev
+  151  git add .
+  152  git commit -m ' 4-print_rev.c'
+  153  git push
+  154  clear
+  155  vi 5-main.c
+  156  vi 5-rev_string.c
+  157  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-rev_string.c -o 5-rev_string
+  158  git ad .
+  159  git add .
+  160  git commit -m '5-rev_string.c'
+  161  git push
+  162  clear
+  163  vi 6-main.c
+  164  vi 6-puts2.c
+  165  git add .
+  166  git commit -m ' 6-puts2.c'
+  167  git push
+  168  clear
+  169  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+  170  vi 6-puts2.c
+  171  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+  172  git add .
+  173  git commit -m ' 6-puts2.c'
+  174  git push
+  175  clear
+  176  vi 7-main.c
+  177  vi 7-puts_half.c
+  178  git add .
+  179  git commit -m '7-puts_half.c'
+  180  git puh
+  181  git push
+  182  clear
+  183  vi 8-main.c
+  184  vi 8-print_array.c
+  185  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 8-main.c 8-print_array.c -o 8-print_array
+  186  git add .
+  187  git commit -m ' 8-print_array.c'
+  188  git push
+  189  clear
+  190  vi 9-main.c
+  191  vi 9-strcpy.c
+  192  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 9-main.c 9-strcpy.c -o 9-strcpy
+  193  git add .
+  194  git commit -m ' 9-strcpy.c
+  195  '
+  196  git push
+  197  clear
+  198  vi 100-main.c
+  199  vi gcc -Wall -pedantic -Werror -Wextra -std=gnu89 -fsanitize=signed-integer-overflow 100-main.c 100-atoi.c -o 100-atoi
+  200  git add .
+  201  vi 100-atoi.c
+  202  vi gcc -Wall -pedantic -Werror -Wextra -std=gnu89 -fsanitize=signed-integer-overflow 100-main.c 100-atoi.c -o 100-atoi
+  203  git add .
+  204  git commit -m '100-atoi.c
+  205  '
+  206  git push
+  207  clear
+  208  git clone https://github.com/JosiahThobejane/Java-MySQL-Dictionary
+  209  git clone [200~https://github.com/chapagain/crud-php-simple~
+  210  git clone https://github.com/chapagain/crud-php-simple
+  211  git clone https://github.com/serenity-valley/game
+  212  touch index.html app.js style.css
+  213  vi task1.js
+  214  ls -l
+  215  git pull origin main
+  216  git checkout main
+  217  git pull origin main
+  218  clear
+  219  git checkout task/2
+  220  git merge main
+  221  git push -u origin task/2
+  222  git pull
+  223  git push -u origin task/2
+  224  clear
+  225  git status
+  226  git checkout main
+  227  ls
+  228  git merge main
+  229  git add task1.js
+  230  git commit -m 'Adding task1.js file to fix merge conflict'
+  231  git push
+  232  git merge main
+  233  ls --help
+  234  ls /
+  235  ls
+  236  ls
+  237  ls /
+  238  clear
+  239  ls /
+  240  pwd
+  241  cd root
+  242  cd /
+  243  pwd
+  244  ls ls /
+  245  ls
+  246  rm  task1.js  task2.js  task3.js  task4.js  task5.js  task6.js 
+  247  ls
+  248  git add .
+  249  git commit -m 'Removed unnecessary files from the branch'
+  250  git push
+  251  clear
+  252  ls
+  253  git checkout main
+  254  git checkout task/1
+  255  ls
+  256  git checkout main
+  257  clear
+  258  git checkout task/2
+  259  ls
+  260  rm  task1.js  task3.js  task4.js  task5.js  task6.js  task7.js
+  261  git add .
+  262  git commit -m 'Removed unnecessary files from the branch'
+  263  git push
+  264  git clear
+  265  clear
+  266  git checkout main
+  267  git checkout task/3
+  268  ls
+  269  rm task1.js  task2.js  task4.js  task5.js  task6.js  task7.js
+  270  git add .
+  271  git commit -m 'Removed unnecessary files from the branch'
+  272  git push
+  273  clear
+  274  git checkout main
+  275  git checkout task/4
+  276  ls
+  277  rm task1.js  task2.js  task3.js  task5.js  task6.js  task7.js
+  278  git add .
+  279  git commit -m 'Removed unnecessary files from the branch'
+  280  git push
+  281  clear
+  282  git checkout main
+  283  git checkout task/5
+  284  ls
+  285  rm  task1.js  task2.js  task3.js  task4.js task6.js  task7.js
+  286  git add .
+  287  git commit -m 'Removed unnecessary files from the branch'
+  288  git push
+  289  clear
+  290  git checkout main
+  291  git checkout task/6
+  292  ls
+  293  rm  task1.js  task2.js  task3.js  task4.js  task5.js task7.j
+  294  git add .
+  295  git commit -m 'Removed unnecessary files from the branch'
+  296  git push
+  297  git clear
+  298  clear
+  299  git checkout main
+  300  ls
+  301  mkdir git-basic-exercises
+  302  cd git-basic-exercises
+  303  ls -a
+  304  git init
+  305  ls -a
+  306  clear
+  307  touch README.md
+  308  ls -a
+  309  git status
+  310  clear
+  311  git add README.md
+  312  git status
+  313  git commit -m 'initial commit'
+  314  nano README.md
+  315  ls
+  316  rm  task1.js  task2.js  task3.js  task4.js  task5.js  task6.js  task7.js
+  317  git add .
+  318  git commit -m 'Fixing merge conflict'
+  319  git push
+  320  ls
+  321  git checkout task/1
+  322  ls
+  323  vi task1.js
+  324  git add 
+  325  git add .
+  326  git commit -m 'Attempting to reopen PR'
+  327  git push
+  328  clear
+  329  git status
+  330  git checkout main
+  331  git status
+  332  git checkout task/1
+  333  git merge main
+  334  git add .
+  335  git push -u origin task/2
+  336  clear
+  337  git checkout main
+  338  git merge task/2
+  339  git checkout main
+  340  git merge task2.js
+  341  git restore
+  342  git restore task1.js
+  343  git restore --staged --worktree task1.js
+  344  git rev-list HEAD -n 1 -- task1.js
+  345  ls
+  346  git checkout 32a07415ac01a1dde9d9525fbb3d97b98796d7ba^ task1.js task2.js task3.js task4.js task5.js task6.js task7.js
+  347  ls
+  348  git add .
+  349  git commit -m 'Restoring deleted files to fix merge conflict'
+  350  git push
+  351  git checkout task/2
+  352  ls
+  353  vi task2.js
+  354  git add .
+  355  git commit -m 'Opening a new PR'
+  356  git push
+  357  nano README.md
+  358  y
+  359  vi README.md
+  360  git status
+  361  cat README.md
+  362  clear
+  363  git add .
+  364  git commit -m 'second commit'
+  365  vi README.md
+  366  git add .
+  367  git commit -m 'third commit'
+  368  git log
+  369  clear
+  370  git checkout 1d54c62b81c5328698f0139698ed80d29236750d
+  371  cat README.md
+  372  git checkout main
+  373  git checkout main
+  374  git checkout master
+  375  clear
+  376  git checkout -b milkshake-flavours
+  377  vi milkshake-flavours
+  378  mv milkshake-flavours milkshake.md
+  379  git status
+  380  git add .
+  381  git commit -m 'added initial flavours'
+  382  git log
+  383  git checkout master
+  384  clear
+  385  git branch -b history
+  386  clear
+  387  git checkout -b history
+  388  git log
+  389  git branch
+  390  history > history.txt
+  391  git add .
+  392  git commit -m 'added history'
+  393  clear
+  394  git log
+  395  git checkout master
+  396  git checkout milkshake-flavours
+  397  git log
+  398  clear
+  399  vi README.md
+  400  git add .\
+  401  git add .
+  402  git commit -m 'random readme changes'
+  403  git checkout master
+  404  git checkout history
+  405  cat README.md
+  406  wq
+  407  :wq
+  408  clear
+  409  rm REAME.md
+  410  echo "booya" > README.md
+  411  git add .
+  412  git commit -m 'rewrote readme'
+  413  git chechout master
+  414  git checkout master
+  415  ls
+  416  git log
+  417  clear
+  418  git checkout milkshake-flavours
+  419  ls
+  420  git log
+  421  clear
+  422  git checkout history
+  423  ls
+  424  git log
+  425  clear
+  426  git checkout main
+  427  git checkout master
+  428  git merge milkshake-flavours
+  429  ls
+  430  git log
+  431  clear
+  432  git checkout history
+  433  git log
+  434  clear
+  435  git checkout milkshake-flavours
+  436  git log
+  437  clear
+  438  git checkout history
+  439  git merger master
+  440  git merge master
+  441  git log
+  442  clear
+  443  git remote add origin https://github.com/josephmalete1997/git-basic-exercises.git
+  444  git remote add origin https://github.com/josephmalete1997/git-basic-exercises.git
+  445  git branch -M main
+  446  git push -u origin main
+  447  git branch -M main
+  448  git push -u origin main
+  449  git branch -m master main
+  450  clear
+  451  git branches
+  452  git checkout main
+  453  git checkout master
+  454  ls
+  455  git branch -a
+  456  git branch -a
+  457  git init
+  458  git branch -m main
+  459  git branch -a
+  460  clear
+  461  git status
+  462  ls
+  463  git init
+  464  ls
+  465  ls -a
+  466  clear
+  467  touch README.md
+  468  git status
+  469  clear
+  470  git log
+  471  git add .
+  472  git status
+  473  git commit -m "initial commit"
+  474  git log
+  475  q
+  476  clear
+  477  vi README.md
+  478  cat README.md
+  479  clear
+  480  git commit -m "second commit"
+  481  git add .
+  482  git commit -m "second commit"
+  483  vi README.md
+  484  git commit -m 'third commit'
+  485  git add .
+  486  git commit -m 'third commit'
+  487  clear
+  488  git log
+  489  clear
+  490  git checkout 748d0c2c755d0fce88e446035f7547dd22a58a95
+  491  cat README.md
+  492  clear
+  493  git checkout main
+  494  cat README.md
+  495  ls
+  496  git checkout task/5
+  497  vi task5.js
+  498  git add .
+  499  git commit -m 'Adding a missing semicolon'
+  500  git push origin task/5
+  501  ls
+  502  cat README.md
+  503  clear
+  504  git branch
+  505  git checkout -b milkshake-flavours
+  506  ls
+  507  ls
+  508  vi milkshakes.md
+  509  git add .
+  510  git commit -m 'added initial flavours'
+  511  git log
+  512  clear
+  513  git checkout main
+  514  ls
+  515  git checkout -b history.txt
+  516  git log
+  517  git branch
+  518  clear
+  519  history > history.txt
